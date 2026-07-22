@@ -1,0 +1,10 @@
+# Python 3.9+
+numpy
+pandas
+torch
+tqdm
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipykernel
